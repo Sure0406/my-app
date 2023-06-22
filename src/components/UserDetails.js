@@ -9,7 +9,7 @@ const UserDetails = () => {
     const [ususer, setUser] = useState([])
     return (
         <div>
-            hi
+            hiii
         </div>
     );
 }
